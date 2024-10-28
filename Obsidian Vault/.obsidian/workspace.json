@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "8baa1663754ca217",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b2d217994b9f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740684027d0305fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 тема. Аксиоматическое построение множества.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 тема. Аксиоматическое построение множества"
+            }
+          },
+          {
+            "id": "ae6e91f7e9ac97c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "a90ec817922b5c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 тема. Индуктивное множество.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 тема. Индуктивное множество"
+            }
+          },
+          {
+            "id": "28729fde1b4215e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 тема. Принцип Архимеда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 тема. Принцип Архимеда"
+            }
+          },
+          {
+            "id": "8b433ee2f7646bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 тема. Функция модуль и неравенство треугольника. Метрика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 тема. Функция модуль и неравенство треугольника. Метрика"
+            }
+          },
+          {
+            "id": "e136f060fa1e5fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 тема. Воженная система отрезков. Стягивающаяся система. Принцип Кантора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 тема. Воженная система отрезков. Стягивающаяся система. Принцип Кантора"
+            }
+          },
+          {
+            "id": "99045df120884d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 тема. Принцип Больцано-Вейерштрасса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 тема. Принцип Больцано-Вейерштрасса"
+            }
+          },
+          {
+            "id": "7d75ba7f823ef3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 тема..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 тема."
+            }
+          },
+          {
+            "id": "fd4431b9bad59315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 тема. Точки мн-ва, открытое и замкнутое множество.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 тема. Точки мн-ва, открытое и замкнутое множество"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd2845fc7970b70c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec1d74f45352fe50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6030ac7734b5a053",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "38ed61ade3b5a010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "025e96efd27d2288",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e7c43999f8349d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1fe26d1ff27274c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874f35b7523808d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 тема. Аксиоматическое построение множества.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2 тема. Аксиоматическое построение множества"
+            }
+          },
+          {
+            "id": "4d4dd13220217bce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Колоквиум матан.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Колоквиум матан"
+            }
+          },
+          {
+            "id": "fef13d18cf52bf17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "195fbf39b4b9266d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Колоквиум матан.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Колоквиум матан"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d75ba7f823ef3f5",
+  "lastOpenFiles": [
+    "10 тема. Принцип Больцано-Вейерштрасса.md",
+    "12 тема..md",
+    "Колоквиум матан.md",
+    "Pasted image 20241028014502.png",
+    "9 тема. Принцип Бореля-Лебега(+для интервала).md",
+    "7 тема. Воженная система отрезков. Стягивающаяся система. Принцип Кантора.md",
+    "6 тема. Функция модуль и неравенство треугольника. Метрика.md",
+    "4 тема. Ограниченное и неограниченное множества.md",
+    "5 тема. Принцип Архимеда.md",
+    "3 тема. Индуктивное множество.md",
+    "2 тема. Аксиоматическое построение множества.md",
+    "1 тема. Множества и операции над ними..md",
+    "8 тема. Точки мн-ва, открытое и замкнутое множество.md",
+    "Без названия",
+    "671a41d443b476c269bf43c21f91d23f6a879262.svg"
+  ]
+}

@@ -1,0 +1,8 @@
+/* Replace default highlight with background color */
+.MathJax{
+    background-color: var(--background-primary) !important;
+}
+/* Highlight all mathjax block */
+.MJX-TEX{
+    color: #95b3d7;
+}
